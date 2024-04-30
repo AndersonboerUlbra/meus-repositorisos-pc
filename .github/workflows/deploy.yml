@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Listar todos os arquivos do projeto
-    run: ls -la
+      run: ls -la
